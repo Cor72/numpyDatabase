@@ -1,0 +1,10 @@
+{
+  "records": 250,
+  "source_sha256": "f8a6f490c059f417f4eda73deeb75c5433ceb9b8327340b8366566706f383018",
+  "source_unchanged": true,
+  "circle_charts": 6,
+  "line_charts": 6,
+  "line_denominator": "每个年级每题非空作答人数",
+  "circle_denominator": "每题非空作答人数",
+  "font": "Microsoft YaHei"
+}
